@@ -1,8 +1,6 @@
 # The OpenVDB GitHub Organization
 
-The OpenVDB GitHub organization is a collection of repositories that are related to the Academy Software Foundation's [OpenVDB project](https://www.openvdb.org/).
-
-The OpenVDB GitHub organization is administered by the Academy Software Foundation and the OpenVDB Project's Technical Steering Committee.  Individual repositories can be administered by other groups of contributors to the OpenVDB Project with permission from the OpenVDB Project's Technical Steering Committee but all contribution guidelines and codes of conduct is the same as [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb).
+Welcome to OpenVDB's GitHub organization, which hosts a collection of repositories that are related to the Academy Software Foundation's [OpenVDB project](https://www.openvdb.org/). These projects are currently not part of the core OpenVDB repository, but they are still part of the the same project (governed by a [Technical Steering Committee](https://www.openvdb.org/about)) and same [license/CLA/DCO](https://www.openvdb.org/license/).
 
 ## Repositories
 
@@ -12,11 +10,11 @@ The `openvdb-maya` repository houses the OpenVDB Maya plugin which used to be in
 
 ### [fvdb](https://github.com/openvdb/fvdb)
 
-The `fvdb` repository houses the core library and PyTorch extension for ƒVDB.  ƒVDB is a framework that provides differentiable, sparse volumetric operators built on top of NanoVDB and enables PyTorch users to utilize the NanoVDB data structure to build powerful and scalable spatial intelligence applications.
+The `fvdb-core` repository houses the core library and PyTorch extension for ƒVDB.  ƒVDB is a framework that provides differentiable, sparse volumetric operators built on top of NanoVDB and enables PyTorch users to utilize the NanoVDB data structure to build powerful and scalable spatial intelligence applications.
 
 ### [fvdb-applications](https://github.com/openvdb/fvdb-applications)
 
-The `fvdb-applications` repository contains examples of how to use the ƒVDB library to build spatial intelligence networks or pipelines.  These are provided as reference for how to implement interesting or well-known methods and networks on top of ƒVDB including examples of pipelines that perform panoptic segmentation and depth reconstruction.
+The `fvdb-examples` repository contains examples of how to use the ƒVDB library to build spatial intelligence networks or pipelines.  These are provided as reference for how to implement interesting or well-known methods and networks on top of ƒVDB including examples of pipelines that perform panoptic segmentation and depth reconstruction.
 
 
 ### [fvdb-realitycapture](https://github.com/openvdb/fvdb-realitycapture)
