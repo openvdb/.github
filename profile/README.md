@@ -8,7 +8,7 @@ Welcome to OpenVDB's GitHub organization, which hosts a collection of repositori
 
 The `openvdb-maya` repository houses the OpenVDB Maya plugin which used to be in the [OpenVDB repository](https://github.com/AcademySoftwareFoundation/openvdb) but has been deprecated and is no longer maintained.  It is now provided in this repository as reference.
 
-### [fvdb](https://github.com/openvdb/fvdb)
+### [fvdb-core](https://github.com/openvdb/fvdb)
 
 The `fvdb-core` repository houses the core library and PyTorch extension for ƒVDB.  ƒVDB is a framework that provides differentiable, sparse volumetric operators built on top of NanoVDB and enables PyTorch users to utilize the NanoVDB data structure to build powerful and scalable spatial intelligence applications.
 
