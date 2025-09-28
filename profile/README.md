@@ -1,6 +1,6 @@
 # The OpenVDB GitHub Organization
 
-Welcome to OpenVDB's GitHub organization, which hosts a collection of repositories that are related to the Academy Software Foundation's [OpenVDB project](https://www.openvdb.org/). These projects are currently not part of the core OpenVDB repository, but they are still part of the same project (governed by a [Technical Steering Committee](https://www.openvdb.org/about)) and adhere to the same [license, CLA and DCO](https://www.openvdb.org/license/).
+Welcome to OpenVDB's GitHub organization, which hosts a collection of repositories that are related to the Academy Software Foundation's [OpenVDB project](https://www.openvdb.org/). While these projects are currently not part of the core OpenVDB repository, they are governed by the same [Technical Steering Committee](https://www.openvdb.org/about)) and adhere to the same [license, CLA & DCO](https://www.openvdb.org/license/).
 
 ## Repositories
 
